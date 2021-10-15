@@ -6,6 +6,7 @@
 
 // If the input string is empty, or the removal of the first and last items would cause the string to be empty, returns null.
 
+
 function array(arr){
     if(arr.split(',').length <3){
     return null
